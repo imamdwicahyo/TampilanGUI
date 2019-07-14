@@ -204,7 +204,6 @@ public class TampilanGUI extends javax.swing.JFrame {
         jLabel80 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setUndecorated(true);
         setResizable(false);
 
         panelLogin1.addMouseListener(new java.awt.event.MouseAdapter() {

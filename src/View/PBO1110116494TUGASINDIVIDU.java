@@ -16,6 +16,8 @@ public class PBO1110116494TUGASINDIVIDU {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+        TampilanGUI view = new TampilanGUI();
+        view.setVisible(true);
+   }
     
 }
